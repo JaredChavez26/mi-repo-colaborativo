@@ -4,4 +4,9 @@ Editando archivo en github 0448
 
 Cambio realizado en GitHub (rama main) 
 
+
 Linea añadida en local en la tarea
+
+Linea añadida desde GitHub en la tarea.
+
+
